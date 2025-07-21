@@ -4,7 +4,7 @@ Welcome to my AI-powered portfolio built using **Streamlit**. This web app showc
 
 ## 🔗 Live App
 
-👉 [Click here to view the app on Streamlit Cloud](https://nancy-portfolio.streamlit.app)
+👉 https://nancy-diana-gudavalli-portfolio.streamlit.app/
 
 ## 📁 Files Included
 
